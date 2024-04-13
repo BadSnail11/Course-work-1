@@ -1,0 +1,13 @@
+{
+    "passages": [
+        {
+            "date": "",
+            "id": 0,
+            "transport": 0,
+            "waypoints": [
+                "Минск",
+                "Гродно"
+            ]
+        }
+    ]
+}

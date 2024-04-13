@@ -1,0 +1,11 @@
+{
+    "transports": [
+        {
+            "capacity": 5000,
+            "consumption": 20,
+            "id": 0,
+            "status": 0,
+            "type": "Грузовик"
+        }
+    ]
+}

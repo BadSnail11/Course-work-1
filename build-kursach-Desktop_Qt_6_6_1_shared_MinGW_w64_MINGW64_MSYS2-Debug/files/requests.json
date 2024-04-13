@@ -1,0 +1,12 @@
+{
+    "requests": [
+        {
+            "cargo": "Балки",
+            "clientId": 0,
+            "departure": "Минск",
+            "destination": "Гродно",
+            "id": 0,
+            "weight": 300
+        }
+    ]
+}
