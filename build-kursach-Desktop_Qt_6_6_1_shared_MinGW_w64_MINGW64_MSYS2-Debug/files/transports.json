@@ -2,10 +2,15 @@
     "transports": [
         {
             "capacity": 5000,
-            "consumption": 20,
-            "id": 0,
-            "status": 0,
+            "consumption": 200,
+            "id": 1,
             "type": "Грузовик"
+        },
+        {
+            "capacity": 10000,
+            "consumption": 100,
+            "id": 2,
+            "type": "Самолет"
         }
     ]
 }

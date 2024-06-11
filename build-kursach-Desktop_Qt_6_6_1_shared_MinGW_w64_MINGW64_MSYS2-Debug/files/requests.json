@@ -1,12 +1,20 @@
 {
     "requests": [
         {
-            "cargo": "Балки",
+            "cargo": "Balki",
             "clientId": 0,
             "departure": "Минск",
             "destination": "Гродно",
             "id": 0,
             "weight": 300
-        }
+        },
+		{
+			"cargo": "bruce",
+			"clientId": 1,
+			"departure": "Минск",
+			"destination": "Гродно",
+			"id": 1,
+			"weight": 400
+		}
     ]
 }

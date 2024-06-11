@@ -1,11 +1,25 @@
 {
     "accounts": [
         {
-            "admin": true,
-            "company": "newtwo",
-            "id": 0,
+            "company": "admin",
+            "id": 1,
             "login": "admin",
-            "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918"
+            "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+            "role": 2
+        },
+        {
+            "company": "GBK",
+            "id": 2,
+            "login": "user1",
+            "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+            "role": 1
+        },
+        {
+            "company": "GBK",
+            "id": 3,
+            "login": "user2",
+            "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+            "role": 0
         }
     ]
 }

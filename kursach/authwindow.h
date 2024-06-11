@@ -2,6 +2,7 @@
 #define AUTHWINDOW_H
 
 #include <QDialog>
+#include <classes.h>
 
 namespace Ui {
 class AuthWindow;
@@ -14,6 +15,22 @@ class AuthWindow : public QDialog
 public:
     explicit AuthWindow(QWidget *parent = nullptr);
     ~AuthWindow();
+
+    int registerAccount(QString login, QString password, QString company, int role = 0);
+
+    int authAccount(QString login, QString password);
+
+    QString encryptPassword(QString password);
+
+    bool stringIsOkay(QString s);
+
+    bool logpassIsOkay(QString s);
+
+    bool loginIsFree(QString s);
+
+private:
+    Array <Account> accounts;
+    bool isRegistration = false;
 
 signals:
     void authClosed(int id);

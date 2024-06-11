@@ -156,7 +156,7 @@ public:
 #if QT_CONFIG(shortcut)
         authEnterButton->setShortcut(QCoreApplication::translate("AuthWindow", "Return", nullptr));
 #endif // QT_CONFIG(shortcut)
-        registrationButton->setText(QCoreApplication::translate("AuthWindow", "\320\227\320\260\321\200\320\265\320\263\320\270\321\201\321\202\321\200\320\270\321\200\320\276\320\262\320\260\321\202\321\214\321\201\321\217 \320\272\320\260\320\272 \320\260\320\264\320\274\320\270\320\275\320\270\321\201\321\202\321\200\320\260\321\202\320\276\321\200", nullptr));
+        registrationButton->setText(QCoreApplication::translate("AuthWindow", "\320\227\320\260\321\200\320\265\320\263\320\270\321\201\321\202\321\200\320\270\321\200\320\276\320\262\320\260\321\202\321\214\321\201\321\217", nullptr));
     } // retranslateUi
 
 };

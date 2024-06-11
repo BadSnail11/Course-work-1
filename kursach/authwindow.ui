@@ -202,7 +202,7 @@ border-radius: 30px solid;</string>
                <item>
                 <widget class="QPushButton" name="registrationButton">
                  <property name="text">
-                  <string>Зарегистрироваться как администратор</string>
+                  <string>Зарегистрироваться</string>
                  </property>
                  <property name="autoDefault">
                   <bool>false</bool>

@@ -14,8 +14,6 @@ SOURCES += \
     mainwindow.cpp
 
 HEADERS += \
-    algorythms.h \
-    authorization.h \
     authwindow.h \
     classes.h \
     mainwindow.h

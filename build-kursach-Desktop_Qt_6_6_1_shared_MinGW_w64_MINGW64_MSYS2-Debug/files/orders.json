@@ -1,14 +1,58 @@
 {
     "orders": [
         {
-            "cargo": "Балки",
-            "clientId": 0,
+            "cargo": "палки",
+            "company": "who",
             "departure": "Минск",
             "destination": "Гродно",
-            "id": 0,
+            "id": 1,
             "passage": 0,
-            "status": 0,
-            "weight": 300
+            "weight": 1000
+        },
+        {
+            "cargo": "балки",
+            "company": "who",
+            "departure": "Минск",
+            "destination": "Гродно",
+            "id": 2,
+            "passage": 0,
+            "weight": 4000
+        },
+        {
+            "cargo": "диваны",
+            "company": "who",
+            "departure": "Минск",
+            "destination": "Гродно",
+            "id": 3,
+            "passage": 0,
+            "weight": 23
+        },
+        {
+            "cargo": "матрасы",
+            "company": "asd",
+            "departure": "Париж",
+            "destination": "Лодзь",
+            "id": 4,
+            "passage": 0,
+            "weight": 2
+        },
+        {
+            "cargo": "брусья",
+            "company": "admin",
+            "departure": "Москва",
+            "destination": "Берлин",
+            "id": 5,
+            "passage": 0,
+            "weight": 200
+        },
+        {
+            "cargo": "краска",
+            "company": "admin",
+            "departure": "Пекин",
+            "destination": "Санкт-Петербург",
+            "id": 6,
+            "passage": 0,
+            "weight": 10
         }
     ]
 }
